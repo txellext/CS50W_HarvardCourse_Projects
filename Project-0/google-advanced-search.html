@@ -5,6 +5,11 @@
         <style>
             body {
                 background-color: black;
+                color:white
+            }
+
+            .appbar {
+                color: #f28b82
             }
         </style>
     </head>
@@ -18,10 +23,17 @@
             <label>Advanced search</label>
         </div>
 
-        <form action="https://www.google.com/advanced_search">
-            <span></span>
-            <input type="text" name="q">
-            <input type="submit" value="Google Search">
+        <form action="https://www.google.com/search">
+            <h2>Find pages with...</h2>
+            <span> all these words:</span>
+            <input type="text" name="as_q">
+            <span> this exact word or phrase:</span>
+            <input type="text" name="as_epq">            
+            <span> any of these words:</span>
+            <input type="text" name="as_oq">
+            <span> none of these words:</span>
+            <input type="text" name="as_eq">
+            <input type="submit" value="Advanced Search">
         </form>
     </body>
 </html>
