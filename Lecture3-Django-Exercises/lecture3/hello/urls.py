@@ -5,5 +5,8 @@ from django.urls import path
 from . import views # from cd import views in order to get the index function 
 
 urlpatterns = [
-    path("", views.index, name="index") # variables: URL, function and name to the URL
+    path("", views.index, name="index"), # variables: URL name, function and reference name to the URL
+    path("<str:name>",views.greet, name="greet" ), # route of any string
+    path("txell", views.txell, name="txell"),
+
 ]
