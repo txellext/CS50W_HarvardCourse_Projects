@@ -18,5 +18,6 @@ from django.urls import include, path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('hello/', include("hello.urls")) # I include the hello app and the urls.py from hello app too
+    path('hello/', include("hello.urls")), # I include the hello app and the urls.py from hello app too
+    path('newyear/', include("newyear.urls")) # I include the newyear app and the urls.py from newyear app too
 ]
