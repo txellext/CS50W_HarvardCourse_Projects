@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-    <img src="/logo/Harvard_logo.png" alt="harvard logo" /> <br />
+    <img src="/logo/Harvard_logo.png" alt="harvard logo" width="600" height="300" /> <br />
     <h1 align="center"> CS50's Web Programming with Python and JavaScript </h1>
     <div align="center">
         <a href="https://www.edx.org/es/course/cs50s-web-programming-with-python-and-javascript"> View CS50W OpenCourseWare, HarvardX on edX</a>
