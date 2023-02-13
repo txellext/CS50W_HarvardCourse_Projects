@@ -11,11 +11,11 @@
 
 ## Lectures and Projects of CS50W Course
 
- [] 0. Front-end Google clone
- [] 1. Wikipedia like
- 2. eBay-like e-commerce
- 3. Mail
- 4. Twitter-like
+ 0. [x] Front-end Google clone
+ 1. [ ] Wikipedia like
+ 2. [ ] eBay-like e-commerce
+ 3. [ ] Mail
+ 4. [ ] Twitter-like
 
 
 <br>
