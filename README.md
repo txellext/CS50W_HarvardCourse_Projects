@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-    <img src="../CS50W-Harward-Projects/logo/Harvard_logo.png" alt="harvard logo" /> <br />
+    <img src="/logo/Harvard_logo.png" alt="harvard logo" /> <br />
     <h1 align="center"> CS50's Web Programming with Python and JavaScript </h1>
     <div align="center">
         <a href="https://www.edx.org/es/course/cs50s-web-programming-with-python-and-javascript"> View CS50W OpenCourseWare, HarvardX on edX</a>
@@ -9,7 +9,7 @@
 
 <br>
 
-## Lectures and Project of CS50W Course
+## Lectures and Projects of CS50W Course
 
  0. Front-end Google clone
  1. Wikipedia like
